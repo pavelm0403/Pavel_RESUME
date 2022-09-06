@@ -1,4 +1,4 @@
 # Pavel_RESUME
 Resume. HTML/CSS code
 <br>
-https://pavelm0403.github.io/Pavel_RESUME/
+<a href="https://pavelm0403.github.io/Pavel_RESUME/" target="_blank">that's RESUME</a>
